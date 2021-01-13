@@ -9,10 +9,91 @@ Korelasyon ; iki değişken arasınki ilişkiyi gösterir. "-1" ile "1" arasınd
 
 3-) Eğer Korelasyon değeri 0 ise " Korelasyon Yok " deriz. Aynı zaman da iki değişken arasında bir ilişki olmadığını gösterir.
 
-Korelasyon ilişkisinin az veya çok olduğunu ise şu şekilde açıklarız ;
 
-1-) Eğer Korelasyon değeri -1' e yaklaşıyorsa "Negatif Güçlü Bir ilişki " deriz.
+- Korelasyon Analizi -
 
-2-) Eğer Korelasyon değeri 1'e yaklaşıyorsa "Pozitif Güçlü Bir İlişki " deriz. 
+-> Hipotezler :
 
-3-) Eğer Korelasyon değeri 0'a yaklaşıyorsa "İlişkinin Derecesi" azalıyor deriz.
+H0 : p = 0 ,  H1 : p != 0
+
+H0 : Değişkenler arasında korelasyon yoktur 
+H1 : Değişkenler arasında korelasyon vardır
+
+-> Test İstatistiği 
+
+Test İstatistiğinde "Pearson Korelasyon Katsayısı" hesabı yapıyoruz
+
+Hesaplanan Pearson Korelasyon katsayısı;
+
+
+1-) Eğer -1' e yaklaşıyorsa "İlişkinin şiddeti artıyor" deriz.
+
+2-) Eğer  1'e yaklaşıyorsa " İlişkinin şiddeti artıyor" deriz. 
+
+3-) Eğer  0'a yaklaşıyorsa "İlişkinin Derecesi" azalıyor deriz
+
+-> Varsayımlar 
+
+- Her iki değişken içinde Normallik Varsayımı Hesaplarız.
+
+- Eğer Varsayım Sağlanırsa -> Pearson Korelasyon Katsayısı kullanırız
+
+- Eğer Varsayım Sağlanmazsa -> Spearmanr Korelasyon Katsayısı kullanırız
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
