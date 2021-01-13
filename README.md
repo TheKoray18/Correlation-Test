@@ -16,8 +16,8 @@ Korelasyon ; iki değişken arasınki ilişkiyi gösterir. "-1" ile "1" arasınd
 
 H0 : p = 0 ,  H1 : p != 0
 
-H0 : Değişkenler arasında korelasyon yoktur 
-H1 : Değişkenler arasında korelasyon vardır
+ - H0 : Değişkenler arasında korelasyon yoktur 
+ - H1 : Değişkenler arasında korelasyon vardır
 
 -> Test İstatistiği 
 
