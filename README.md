@@ -10,7 +10,7 @@ Korelasyon ; iki değişken arasınki ilişkiyi gösterir. "-1" ile "1" arasınd
 - Eğer Korelasyon değeri 0 ise " Korelasyon Yok " deriz. Aynı zaman da iki değişken arasında bir ilişki olmadığını gösterir.
 
 
--- Korelasyon Analizi --
+##Korelasyon Analizi
 
 -> Hipotezler :
 
