@@ -12,14 +12,14 @@ Korelasyon ; iki değişken arasınki ilişkiyi gösterir. "-1" ile "1" arasınd
 
 ## Korelasyon Analizi
 
--> Hipotezler :
+-> **Hipotezler** :
 
 H0 : p = 0 ,  H1 : p != 0
 
  - H0 : Değişkenler arasında korelasyon yoktur 
  - H1 : Değişkenler arasında korelasyon vardır
 
--> Test İstatistiği 
+-> **Test İstatistiği** 
 
 Test İstatistiğinde "Pearson Korelasyon Katsayısı" hesabı yapıyoruz
 
@@ -32,7 +32,7 @@ Hesaplanan Pearson Korelasyon katsayısı;
 
 - Eğer  0'a yaklaşıyorsa "İlişkinin Derecesi" azalıyor deriz
 
--> Varsayımlar 
+-> **Varsayımlar**
 
 - Her iki değişken içinde Normallik Varsayımı Hesaplarız.
 
